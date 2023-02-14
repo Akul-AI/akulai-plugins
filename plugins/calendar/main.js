@@ -14,7 +14,7 @@ const checkEvents = () => {
             const eventDate = new Date(event.date);
             if (now.getTime() >= eventDate.getTime()) {
                 console.log("Reminder: " + event.event);
-                // akulAI.speak("Reminder: " + event.event);
+                akulAI.speak("Reminder: " + event.event);
             }
         });
     }, 60000);
