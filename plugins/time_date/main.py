@@ -1,4 +1,3 @@
-# This file does anything relating to time/date.
 import datetime
 
 # define all commonly used variables here
