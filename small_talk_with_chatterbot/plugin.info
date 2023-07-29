@@ -1,3 +1,0 @@
-author: Akul Goel
-dependencies: chatterbot, chatterbot-corpus
-description: This plugin makes small-talk with you when it finds a question it can answer, such as: How are you?
